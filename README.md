@@ -1,7 +1,7 @@
 # Energy Consumption Prediction
 
 ## Overview
-This project utilizes machine learning techniques to predict energy consumption. It involves preprocessing a dataset, training a polynomial regression model with cross-validation, and making predictions on test data. The aim is to provide insights into energy usage patterns.
+This project utilizes machine learning techniques to predict energy consumption. It involves preprocessing a dataset, training a polynomial regression model along Lasso Regression with cross-validation, and making predictions on test data. The aim is to provide insights into energy usage patterns.
 
 ## Project Structure
 - `train.csv`: Training dataset.
